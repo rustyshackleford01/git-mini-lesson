@@ -14,7 +14,7 @@ $ cd git-mini-lesson
 ```bash
 $ code .
 ```
-- Add your name to the bottom of README.md
+- Add your name to the "People who've made a PR" section in the README.md
 - Add, commit, and push your changes
 ```bash
 $ git add .
