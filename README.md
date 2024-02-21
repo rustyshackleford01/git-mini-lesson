@@ -2,7 +2,7 @@
 
 ## Instructions
 - Fork this repo
-- Clone your forked repo on your local machine
+- Clone your forked repo to your local machine
 ```bash
 $ git clone "your repo link here without quotes"
 ```
