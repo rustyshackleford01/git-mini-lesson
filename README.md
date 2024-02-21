@@ -37,4 +37,4 @@ $ git push
 - Navigate back to your GitHub repo and open a pull request
 
 ## People who've made a PR
-
+- Nick Christensen
