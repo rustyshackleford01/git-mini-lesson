@@ -12,7 +12,7 @@ $ git push -u origin my-first-pull-request
 - Add your name to the bottom of README.md
 - Add, commit, and push your changes
 ```bash
-$ git add README.md
+$ git add .
 $ git commit -m "add my name to list"
 $ git push
 ```
