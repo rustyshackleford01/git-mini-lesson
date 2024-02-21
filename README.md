@@ -36,5 +36,5 @@ $ git push -u origin my-first-pull-request
 
 
 ## Additional Resources
-[How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
-[Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+- [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+- [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
