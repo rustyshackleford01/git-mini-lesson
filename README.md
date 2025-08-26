@@ -32,6 +32,7 @@ $ git push -u origin my-first-pull-request
 
 ## People who've made a PR
 - Nick Christensen
+- Sam
 
 
 
